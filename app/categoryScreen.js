@@ -46,14 +46,14 @@ export default function CategoryScreen(){
 
                     <TouchableOpacity style={styles.cateView}>
                         <Ionicons name="laptop-outline" size={30} />
-                        <Text style={styles.cateText}>Engineering</Text>
+                        <Text style={styles.cateText}>Fashion</Text>
                     </TouchableOpacity>
                 </View>
 
                 <View style={styles.main}>
                     <TouchableOpacity style={styles.cateView}>
                         <Ionicons name="laptop-outline" size={30} />
-                        <Text style={styles.cateText}>Engineering</Text>
+                        <Text style={styles.cateText}>IoT</Text>
                     </TouchableOpacity>
 
                     <TouchableOpacity style={styles.cateView}>
